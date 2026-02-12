@@ -1,0 +1,20 @@
+# ROS 2 / colcon
+ws/build/
+ws/install/
+ws/log/
+
+# Python / misc
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# VSCode / IDE
+.vscode/
+*.swp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+*.png

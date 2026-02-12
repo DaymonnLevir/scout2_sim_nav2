@@ -1,0 +1,3 @@
+[submodule "ws/src/scout_nav2"]
+	path = ws/src/scout_nav2
+	url = https://github.com/AIRLab-POLIMI/scout_nav2
